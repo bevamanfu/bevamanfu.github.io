@@ -1,0 +1,46 @@
+
+
+img {
+    float:right;
+
+    position: relative;
+    top: 0px;
+    right: 0px;
+}
+#div1 {
+    text-align:left;
+    float:left;
+    font-family: Verdana;
+    line-height: 5px;
+   
+
+}
+
+#div2 {
+    text-align:right;
+    float:right;
+    font-family: Verdana;
+    line-height: px;  
+    
+}
+#start{
+    font-family: Verdana;
+    line-height: 1px; 
+    text-align:center;  
+}
+
+p{
+    font-family: Verdana;
+    line-height: 5px;
+    
+}
+ul{
+    font-family: Verdana;
+    line-height: 24px;
+
+}
+body{
+    font-family: Verdana;
+    line-height: 5px;
+    margin: 10ch;
+}
